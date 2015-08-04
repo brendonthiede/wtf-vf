@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "wtf",
+    "packageName": "com.vertafore.wtf",
+    "packageFolder": "com/vertafore/wtf",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "2c80af9875a4146f1ffb970824034718634c6aa8"
+  }
+}
